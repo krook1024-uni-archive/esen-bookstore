@@ -1,0 +1,17 @@
+###
+
+POST http://localhost:8080/books
+Content-Type: application/json;charset=UTF-8
+
+{
+"title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+"author": "James Clear",
+"publisher": "Avery",
+"publicationDate": "2018-10-16",
+"price": 13.49
+}
+
+<> 2023-03-21T145723.200.json
+<> 2023-03-21T145600.400.json
+<> 2023-03-21T145533.415.json
+<> 2023-03-21T145516.400.html
